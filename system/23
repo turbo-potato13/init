@@ -1,0 +1,2 @@
+enter login and password //graphic ssession
+ssh username@"ip" -p "port" and password // ssh ssession
